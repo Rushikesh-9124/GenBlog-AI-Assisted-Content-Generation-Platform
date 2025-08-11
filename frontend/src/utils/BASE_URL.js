@@ -1,1 +1,1 @@
-export const  BASE_URL = 'http://localhost:8000'
+export const  BASE_URL = 'https://genblog-ai-assisted-content-generation-8me3.onrender.com'
